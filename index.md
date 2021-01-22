@@ -1,3 +1,3 @@
-TEST
+**Carsons Metal Trading Site**
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+[link to Google!](http://google.com) - [link to GitHub!](http://github.com)
