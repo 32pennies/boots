@@ -1,7 +1,5 @@
-<p align="center">
-<h1>
+<h1 align="center">
   Carsons Metal Trading Site
 </h1>
-</p>
 
 [link to Google!](http://google.com) - [link to GitHub!](http://github.com)
